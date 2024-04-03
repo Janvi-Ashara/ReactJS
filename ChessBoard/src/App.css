@@ -1,0 +1,17 @@
+.container {
+  border: .0625rem solid greenyellow;
+}
+
+.box1 {
+  background: white;
+  border: .125rem solid black;
+  height: 7rem;
+  width: 5.625rem;
+}
+
+.box2 {
+  background: rgb(17, 16, 16);
+  border: .125rem solid rgb(242, 242, 242);
+  height: 7rem;
+  width: 90px;
+}
