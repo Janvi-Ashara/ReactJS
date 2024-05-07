@@ -1,0 +1,20 @@
+.p1 {
+    font-size: 18px;
+    margin-top: 4px;
+    padding-left: 15px;
+}
+
+.p2 {
+    font-size: 20px;
+    padding-left: 15px;
+}
+
+.div {
+    height: 170px;
+    width: 60px;
+    background: transparent;
+    border-radius: 80px;
+    border: 2px solid rgb(236, 169, 236);
+    background-color: rgb(75, 44, 105);
+    color: white
+}
